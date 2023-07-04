@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranshu5927" alt="pranshu5927" /></a> </p>
 
-- 🔭 I’m currently working on **Property Management App**
+- 🔭 I’m currently working on **Flight Price Predictior**
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
