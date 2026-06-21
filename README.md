@@ -1,19 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pranshu</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranshu5927" alt="pranshu5927" /></a> </p>
-
-- 🔭 I’m currently working on **Flight Price Predictior**
-
-- 🌱 I’m currently learning **Next.js, TypeScript**
-
-- 💬 Ask me about **MERN Stack**
-
-- 📫 How to reach me **pranshuchadda5@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XOtgpGKTYPh23VG_akR1QYnuOllcCy7n/view?usp=sharing](https://drive.google.com/file/d/1XOtgpGKTYPh23VG_akR1QYnuOllcCy7n/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left"><h1 align="center">Hi 👋, I'm Pranshu Chadda</h1>
 <h3 align="center">Data Scientist & Applied AI Engineer · Building LLM-powered systems & agentic AI pipelines · JP Morgan Chase</h3>
 
