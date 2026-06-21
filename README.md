@@ -84,11 +84,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu5927" alt="GitHub Streak" />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pranshu5927&column=6&margin-w=10" alt="Trophies" />
-  </a>
-</p>
-<a href="https://linkedin.com/in/pranshu-chadda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranshu-chadda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranshuchadda5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranshuchadda5" height="30" width="40" /></a>
-</p>
